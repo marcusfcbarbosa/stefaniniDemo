@@ -16,11 +16,10 @@ namespace Stefanini.WebApi.InfraEstructure
         }
 
         [HttpPost]
-        [Route("calculajuros")]
-        public ICommandResult Calcula([FromBody] InputCommand command)
+        [Route("Trade")]
+        public ICommandResult Trade([FromBody] InputCommand command)
         {
             return _tradeHandler.Handle(command);
         }
-        
     }
 }

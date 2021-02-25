@@ -7,8 +7,8 @@ namespace Stefanini.Domain.DemoContext.Commands.Inputs
 {
     public class TradeCommand : Notifiable, ICommand, ITradeCommand
     {
-        public double Value { get; protected set; }
-        public string ClientSector { get;  protected set; }
+        public double Value { get;  set; }
+        public string ClientSector { get;   set; }
         public TradeCommand(double value, string clientSector)
         {
             Value = value;
