@@ -2,14 +2,14 @@ C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\bin\D
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\bin\Debug\net5.0\Stefanini.Domain.dll
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\bin\Debug\net5.0\ref\Stefanini.Domain.dll
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\bin\Debug\net5.0\Stefanini.Domain.pdb
+C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\bin\Debug\net5.0\Stefanini.Shared.dll
+C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\bin\Debug\net5.0\Stefanini.Shared.pdb
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\obj\Debug\net5.0\Stefanini.Domain.csprojAssemblyReference.cache
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\obj\Debug\net5.0\Stefanini.Domain.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\obj\Debug\net5.0\Stefanini.Domain.AssemblyInfoInputs.cache
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\obj\Debug\net5.0\Stefanini.Domain.AssemblyInfo.cs
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\obj\Debug\net5.0\Stefanini.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\obj\Debug\net5.0\Stefanini.Domain.csproj.CopyComplete
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\obj\Debug\net5.0\Stefanini.Domain.dll
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\obj\Debug\net5.0\ref\Stefanini.Domain.dll
 C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\obj\Debug\net5.0\Stefanini.Domain.pdb
-C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\bin\Debug\net5.0\Stefanini.Shared.dll
-C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\bin\Debug\net5.0\Stefanini.Shared.pdb
-C:\Users\Marcus\Documents\Projects\stefaniniDemo\2_Domain\Stefanini.Domain\obj\Debug\net5.0\Stefanini.Domain.csproj.CopyComplete

@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Stefanini.WebApi.InfraEstructure;
 
 namespace Stefanini.WebApi
 {
@@ -20,7 +21,6 @@ namespace Stefanini.WebApi
         {
             Configuration = configuration;
         }
-
         public IConfiguration Configuration { get; }
 
         // This method gets called by the runtime. Use this method to add services to the container.
@@ -28,10 +28,13 @@ namespace Stefanini.WebApi
         {
 
             services.AddControllers();
-            services.AddSwaggerGen(c =>
-            {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "Stefanini.WebApi", Version = "v1" });
-            });
+            DocumentacaoApi(services);
+            //registrandoDependencias(services);
+        }
+
+        public void DocumentacaoApi(IServiceCollection services)
+        {
+            services.AddSwaggerDocumentation();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.

@@ -14,6 +14,5 @@ namespace Stefanini.Domain.DemoContext.Commands.Outputs
             Message = message;
             Data = data;
         }
-
     }
 }

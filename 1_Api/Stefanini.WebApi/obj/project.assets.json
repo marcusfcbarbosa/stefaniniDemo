@@ -1387,6 +1387,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v5.0",
         "dependencies": {
+          "FluentValidator": "2.0.4",
           "Stefanini.Shared": "1.0.0"
         },
         "compile": {
