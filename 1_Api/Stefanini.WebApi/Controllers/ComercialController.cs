@@ -3,7 +3,7 @@ using Stefanini.Domain.DemoContext.Commands.Inputs;
 using Stefanini.Domain.DemoContext.Handlers;
 using Stefanini.Shared.Commands;
 
-namespace Stefanini.WebApi.InfraEstructure
+namespace Stefanini.WebApi.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
