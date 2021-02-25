@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "JFvV3aOB1fxQHMWJBILWMT3WVBL6r6fHrn+HK592HbihvZMM1EbO/D4jzv7ogm8C8k/BfEg0O2gOREP25B3h4g==",
+  "dgSpecHash": "hmXNwI2TaJmSu1YQKVf23cDv00svIHWB7+HME/6qw1+Jxf4VgC3s+OTe99Woch1//nfv5Zop7c8BKod1v4WgAw==",
   "success": true,
   "projectFilePath": "C:\\Users\\Marcus\\Documents\\Projects\\stefaniniDemo\\4_Test\\Stefanini.Test\\Stefanini.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Marcus\\.nuget\\packages\\coverlet.collector\\1.3.0\\coverlet.collector.1.3.0.nupkg.sha512",
+    "C:\\Users\\Marcus\\.nuget\\packages\\fluentvalidator\\2.0.4\\fluentvalidator.2.0.4.nupkg.sha512",
     "C:\\Users\\Marcus\\.nuget\\packages\\microsoft.codecoverage\\16.7.1\\microsoft.codecoverage.16.7.1.nupkg.sha512",
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.csharp\\4.0.1\\microsoft.csharp.4.0.1.nupkg.sha512",
     "C:\\Users\\Marcus\\.nuget\\packages\\microsoft.net.test.sdk\\16.7.1\\microsoft.net.test.sdk.16.7.1.nupkg.sha512",
