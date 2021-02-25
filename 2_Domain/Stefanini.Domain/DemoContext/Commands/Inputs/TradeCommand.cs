@@ -19,7 +19,7 @@ namespace Stefanini.Domain.DemoContext.Commands.Inputs
             AddNotifications(new ValidationContract()
                  .Requires()
                  .IsGreaterThan(Value,0, "Value", "Value must be greater than Zero")
-                 .IsNullOrEmpty(ClientSector, "ClientSector", "ClientSector cannot be null")
+                 .IsNotNullOrEmpty(ClientSector, "ClientSector", "ClientSector cannot be null")
              );
         }
     }
