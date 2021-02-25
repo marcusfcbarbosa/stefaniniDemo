@@ -1,3 +1,5 @@
+USE [IP_DEMO]
+
 CREATE PROCEDURE [dbo].[CreateTrade]
 AS
 		Declare @Value Decimal 
@@ -52,7 +54,7 @@ END TRY
 BEGIN CATCH
 		  SELECT
 			ERROR_MESSAGE() AS MensagemdeErro,
-			ERROR_NUMBER() AS NúmeroErrado
+			ERROR_NUMBER() AS Nï¿½meroErrado
 END CATCH
 END
 GO
