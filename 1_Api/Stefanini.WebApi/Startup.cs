@@ -11,6 +11,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using Stefanini.Domain.DemoContext.Handlers;
 using Stefanini.WebApi.InfraEstructure;
 
 namespace Stefanini.WebApi
@@ -29,8 +30,15 @@ namespace Stefanini.WebApi
 
             services.AddControllers();
             DocumentacaoApi(services);
-            //registrandoDependencias(services);
+            registrandoDependencias(services);
         }
+         public void registrandoDependencias(IServiceCollection services)
+        {
+            #region"Handlers"
+            services.AddScoped<TradeHandler, TradeHandler>();
+            #endregion
+        }
+
 
         public void DocumentacaoApi(IServiceCollection services)
         {
